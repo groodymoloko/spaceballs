@@ -1,15 +1,15 @@
 {
-  "main.css": "/groodymoloko/spaceballs.git/static/css/main.45faeca5.chunk.css",
-  "main.js": "/groodymoloko/spaceballs.git/static/js/main.5258fdf6.chunk.js",
-  "main.js.map": "/groodymoloko/spaceballs.git/static/js/main.5258fdf6.chunk.js.map",
-  "runtime~main.js": "/groodymoloko/spaceballs.git/static/js/runtime~main.0205c696.js",
-  "runtime~main.js.map": "/groodymoloko/spaceballs.git/static/js/runtime~main.0205c696.js.map",
-  "static/js/2.eb4a84e2.chunk.js": "/groodymoloko/spaceballs.git/static/js/2.eb4a84e2.chunk.js",
-  "static/js/2.eb4a84e2.chunk.js.map": "/groodymoloko/spaceballs.git/static/js/2.eb4a84e2.chunk.js.map",
-  "index.html": "/groodymoloko/spaceballs.git/index.html",
-  "precache-manifest.ff90cc8fb854ac487937cb6ebc76fdf8.js": "/groodymoloko/spaceballs.git/precache-manifest.ff90cc8fb854ac487937cb6ebc76fdf8.js",
-  "service-worker.js": "/groodymoloko/spaceballs.git/service-worker.js",
-  "static/css/main.45faeca5.chunk.css.map": "/groodymoloko/spaceballs.git/static/css/main.45faeca5.chunk.css.map",
-  "static/media/index.css": "/groodymoloko/spaceballs.git/static/media/starjedi-webfont.5461f41a.ttf",
-  "static/media/jumbotron.css": "/groodymoloko/spaceballs.git/static/media/rv.90c8b977.jpg"
+  "main.css": "/spaceballs/static/css/main.a119ddd6.chunk.css",
+  "main.js": "/spaceballs/static/js/main.5258fdf6.chunk.js",
+  "main.js.map": "/spaceballs/static/js/main.5258fdf6.chunk.js.map",
+  "runtime~main.js": "/spaceballs/static/js/runtime~main.21970e6d.js",
+  "runtime~main.js.map": "/spaceballs/static/js/runtime~main.21970e6d.js.map",
+  "static/js/2.eb4a84e2.chunk.js": "/spaceballs/static/js/2.eb4a84e2.chunk.js",
+  "static/js/2.eb4a84e2.chunk.js.map": "/spaceballs/static/js/2.eb4a84e2.chunk.js.map",
+  "index.html": "/spaceballs/index.html",
+  "precache-manifest.2f9940b3dee97403d6270baaa21e272c.js": "/spaceballs/precache-manifest.2f9940b3dee97403d6270baaa21e272c.js",
+  "service-worker.js": "/spaceballs/service-worker.js",
+  "static/css/main.a119ddd6.chunk.css.map": "/spaceballs/static/css/main.a119ddd6.chunk.css.map",
+  "static/media/index.css": "/spaceballs/static/media/starjedi-webfont.5461f41a.ttf",
+  "static/media/jumbotron.css": "/spaceballs/static/media/rv.90c8b977.jpg"
 }

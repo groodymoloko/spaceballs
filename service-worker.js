@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/groodymoloko/spaceballs.git/precache-manifest.ff90cc8fb854ac487937cb6ebc76fdf8.js"
+  "/spaceballs/precache-manifest.2f9940b3dee97403d6270baaa21e272c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/groodymoloko/spaceballs.git/index.html", {
+workbox.routing.registerNavigationRoute("/spaceballs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
