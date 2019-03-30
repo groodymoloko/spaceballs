@@ -2,7 +2,7 @@
   "name": "spaceballs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/groodymoloko/spaceballs.git",
+  "homepage": "https://groodymoloko.github.io/spaceballs/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
