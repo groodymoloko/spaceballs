@@ -2,91 +2,91 @@
     {
         "id": 1,
         "character": "Alien",
-        "image": "/images/alien.jpg",
+        "image": "./images/alien.jpg",
         "clicked": false
     },
     {
         "id": 2,
         "character": "Asshole",
-        "image": "/images/asshole.jpg",
+        "image": "./images/asshole.jpg",
         "clicked": false
     },
     {
         "id": 3,
         "character": "Barf",
-        "image": "/images/barf.jpg",
+        "image": "./images/barf.jpg",
         "clicked": false
     },
     {
         "id": 4,
         "character": "Bleeps",
-        "image": "/images/bleeps.jpg",
+        "image": "./images/bleeps.jpg",
         "clicked": false
     },
     {
         "id": 5,
         "character": "DarkHelmet",
-        "image": "/images/darkhelmet.jpg",
+        "image": "./images/darkhelmet.jpg",
         "clicked": false
     },
     {
         "id": 6,
         "character": "DotMatrix",
-        "image": "/images/dotmatrix.jpg",
+        "image": "./images/dotmatrix.jpg",
         "clicked": false
     },
     {
         "id": 7,
         "character": "LoneStarr",
-        "image": "/images/lonestarr.jpg",
+        "image": "./images/lonestarr.jpg",
         "clicked": false
     },
     {
         "id": 8,
         "character": "PizzaTheHut",
-        "image": "/images/pizza.jpg",
+        "image": "./images/pizza.jpg",
         "clicked": false
     },
     {
         "id": 9,
         "character": "PresidentSkroob",
-        "image": "/images/skroob.jpg",
+        "image": "./images/skroob.jpg",
         "clicked": false
     },
     {
         "id": 10,
         "character": "Vespa",
-        "image": "/images/vespa.jpg",
+        "image": "./images/vespa.jpg",
         "clicked": false
     },
     {
         "id": 11,
         "character": "Yogurt",
-        "image": "/images/yogurt.jpg",
+        "image": "./images/yogurt.jpg",
         "clicked": false
     },
     {
         "id": 12,
         "character": "Zircon",
-        "image": "/images/zircon.jpg",
+        "image": "./images/zircon.jpg",
         "clicked": false
     },
     {
         "id": 13,
         "character": "Double",
-        "image": "/images/double.jpg",
+        "image": "./images/double.jpg",
         "clicked": false
     },
     {
         "id": 14,
         "character": "Desert",
-        "image": "/images/desert.jpg",
+        "image": "./images/desert.jpg",
         "clicked": false
     },
     {
         "id": 15,
         "character": "King",
-        "image": "/images/king.jpg",
+        "image": "./images/king.jpg",
         "clicked": false
     }
 
