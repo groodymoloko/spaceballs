@@ -1,0 +1,26 @@
+.jumbot {
+    background-image: url(../rv.jpg);
+    background-repeat: no-repeat;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    height: 350px;
+    text-align: center;
+}
+
+.contain {
+    margin: 0px;
+}
+
+h1 {
+    color: yellow;
+    font-size: 72px;
+}
+
+.row {
+    justify-content: center;
+}
+
+#message {
+    color: yellow;
+}
